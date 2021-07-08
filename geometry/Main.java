@@ -24,7 +24,7 @@ public class Main {
         int menuSphere = 0;
         int menuCube = 0;
 
-        // Add variabel dan Scanner
+        // Add variabel and Scanner
         Scanner scan = new Scanner(System.in);
 
         do {
