@@ -27,7 +27,7 @@ public class MainApp {
             System.out.println("1. Triangle - Segitiga 90°");
             System.out.println("2. Circle - Lingkaran");
             System.out.println("3. Square - Persegi");
-            System.out.println("4. Prism - Prisma");
+            System.out.println("4. Prism - Prisma Segitiga 90°");
             System.out.println("5. Sphere - Bola");
             System.out.println("6. Cube - Kubus");
             System.out.println("7. Exit - Keluar");
