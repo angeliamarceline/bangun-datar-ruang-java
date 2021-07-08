@@ -57,9 +57,10 @@ public class Main {
                         System.out.print("Input [ 1 | 2 | 3 ] : ");
                         menuTriangle = scan.nextInt();
 
+                        System.out.println("\n");
+
                         switch (menuTriangle) {
                             case 1:
-                                System.out.println("\n");
                                 System.out.println("Triangle - Segitiga 90°");
                                 System.out.println("=======================");
                                 System.out.print("Input Base - Alas : ");
@@ -80,7 +81,6 @@ public class Main {
                                 System.out.println("\n");
                                 break;
                             case 2:
-                                System.out.println("\n");
                                 System.out.println("==========Segitiga Siku-Siku==========");
                                 System.out.println(
                                         "Segitiga siku-siku merupakan segitiga yang di bagian salah satu sudutnya adalah sudut siku-siku dengan besar 90 derajat.");
@@ -106,9 +106,10 @@ public class Main {
                         System.out.print("Input [ 1 | 2 | 3 ] : ");
                         menuCircle = scan.nextInt();
 
+                        System.out.println("\n");
+
                         switch (menuCircle) {
                             case 1:
-                                System.out.println("\n");
                                 System.out.println("Circle - Lingkaran");
                                 System.out.println("==================");
                                 System.out.print("Input Radius - Jari-Jari Lingkaran : ");
@@ -125,7 +126,6 @@ public class Main {
                                 System.out.println("\n");
                                 break;
                             case 2:
-                                System.out.println("\n");
                                 System.out.println("==========Lingkaran==========");
                                 System.out.println(
                                         "Lingkaran adalah kumpulan titik-titik yang membentuk lengkungan tertutup, dimana titik-titik pada lengkungan tersebut berjarak sama terhadap titik pusat.");
@@ -151,9 +151,10 @@ public class Main {
                         System.out.print("Input [ 1 | 2 | 3 ] : ");
                         menuSquare = scan.nextInt();
 
+                        System.out.println("\n");
+
                         switch (menuSquare) {
                             case 1:
-                                System.out.println("\n");
                                 System.out.println("Square - Persegi");
                                 System.out.println("=======================");
                                 System.out.print("Input Side - Sisi Persegi : ");
@@ -170,7 +171,6 @@ public class Main {
                                 System.out.println("\n");
                                 break;
                             case 2:
-                                System.out.println("\n");
                                 System.out.println("==========Persegi==========");
                                 System.out.println(
                                         "Persegi adalah bangun segi empat yang memiliki empat sisi sama panjang dan empat sudut siku-siku.");
@@ -196,9 +196,10 @@ public class Main {
                         System.out.print("Input [ 1 | 2 | 3 ] : ");
                         menuPrism = scan.nextInt();
 
+                        System.out.println("\n");
+
                         switch (menuPrism) {
                             case 1:
-                                System.out.println("\n");
                                 System.out.println("Prism - Prisma Segitiga 90°");
                                 System.out.println("===========================");
                                 System.out.print("Input Base - Alas Segitiga Alas : ");
@@ -219,7 +220,6 @@ public class Main {
                                 System.out.println("\n");
                                 break;
                             case 2:
-                                System.out.println("\n");
                                 System.out.println("==========Prisma Segitiga 90°==========");
                                 System.out.println(
                                         "Prisma segitiga siku-siku adalah bangun ruang yang mempunyai alas berbentuk segitiga siku-siku");
@@ -244,9 +244,10 @@ public class Main {
                         System.out.print("Input [ 1 | 2 | 3 ] : ");
                         menuSphere = scan.nextInt();
 
+                        System.out.println("\n");
+
                         switch (menuSphere) {
                             case 1:
-                                System.out.println("\n");
                                 System.out.println("Sphere - Bola");
                                 System.out.println("=============");
                                 System.out.print("Input Radius - Jari-Jari Bola : ");
@@ -261,7 +262,6 @@ public class Main {
                                 System.out.println("\n");
                                 break;
                             case 2:
-                                System.out.println("\n");
                                 System.out.println("==========Bola==========");
                                 System.out.println(
                                         "Bola adalah bangun ruang tiga dimensi yang dibentuk oleh tak hingga lingkaran berjari-jari sama panjang dan berpusat pada satu titik yang sama.");
@@ -286,9 +286,10 @@ public class Main {
                         System.out.print("Input [ 1 | 2 | 3 ] : ");
                         menuCube = scan.nextInt();
 
+                        System.out.println("\n");
+
                         switch (menuCube) {
                             case 1:
-                                System.out.println("\n");
                                 System.out.println("Cube - Kubus");
                                 System.out.println("===============");
                                 System.out.print("Input Side - Sisi Kubus : ");
@@ -302,7 +303,6 @@ public class Main {
                                 System.out.println("\n");
                                 break;
                             case 2:
-                                System.out.println("\n");
                                 System.out.println("==========Kubus==========");
                                 System.out.println(
                                         "Kubus adalah bangun ruang yang dibatasi oleh enam sisi yang berbentuk persegi.");
