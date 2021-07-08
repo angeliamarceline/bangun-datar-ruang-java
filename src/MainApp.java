@@ -57,7 +57,7 @@ public class MainApp {
                     System.out.println(
                             "Perimeter of Triangle - Keliling Segitiga :" + " " + triangle.getTrianglePerimeter());
                     System.out.println("\n");
-                    continue;
+                    break;
                 case 2:
                     System.out.println("Circle - Lingkaran");
                     System.out.println("==================");
@@ -72,7 +72,7 @@ public class MainApp {
                     System.out.println("Area of Circle - Luas Lingkaran :" + " " + circle.getCircleArea());
                     System.out.println("Circumference  - Keliling Lingkaran :" + " " + circle.getCircleCircumference());
                     System.out.println("\n");
-                    continue;
+                    break;
                 case 3:
                     System.out.println("Square - Persegi");
                     System.out.println("=======================");
@@ -87,7 +87,7 @@ public class MainApp {
                     System.out.println("Area of Square - Luas Persegi :" + " " + square.getSquareArea());
                     System.out.println("Perimeter of Square - Keliling Persegi :" + " " + square.getSquarePerimeter());
                     System.out.println("\n");
-                    continue;
+                    break;
                 case 4:
                     System.out.println("Prism - Prisma Segitiga 90°");
                     System.out.println("===========================");
@@ -107,7 +107,7 @@ public class MainApp {
                     System.out.println("===============================");
                     System.out.println("Volume of Prism :" + " " + prism.getPrismVolume());
                     System.out.println("\n");
-                    continue;
+                    break;
                 case 5:
                     System.out.println("Sphere - Bola");
                     System.out.println("=============");
@@ -121,7 +121,7 @@ public class MainApp {
                     System.out.println("===============================");
                     System.out.println("Volume of Sphere :" + " " + sphere.getSphereVolume());
                     System.out.println("\n");
-                    continue;
+                    break;
                 case 6:
                     System.out.println("Square - Kubus");
                     System.out.println("===============");
@@ -134,7 +134,7 @@ public class MainApp {
                     System.out.println("===============================");
                     System.out.println("Volume of Cube :" + " " + cube.getCubeVolume());
                     System.out.println("\n");
-                    continue;
+                    break;
                 case 7:
                     System.out.println("Exiting Program...");
                     System.exit(0);
