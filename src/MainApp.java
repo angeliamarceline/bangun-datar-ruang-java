@@ -123,7 +123,7 @@ public class MainApp {
                     System.out.println("\n");
                     break;
                 case 6:
-                    System.out.println("Square - Kubus");
+                    System.out.println("Cube - Kubus");
                     System.out.println("===============");
                     System.out.print("Input Side - Sisi Kubus : ");
                     double cubeSide = scan.nextDouble();
