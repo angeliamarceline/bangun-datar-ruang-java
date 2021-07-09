@@ -2,7 +2,7 @@ package bangunDatar;
 
 public class Circle {
     // Attribute
-    private double phi = 3.14;
+    private double phi = 3.14159265358979323846;
     private double radius;
 
     // Getter Setter

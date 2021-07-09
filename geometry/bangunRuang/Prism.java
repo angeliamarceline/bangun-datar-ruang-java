@@ -27,10 +27,5 @@ public class Prism extends Triangle{
         prismVolume = prismHeight * getTriangleArea();
         return prismVolume;
     }
-
-    @Override
-    public double getTriangleArea() {
-        return super.getTriangleArea();
-    }
     
 }

@@ -13,11 +13,4 @@ public class Sphere extends Circle{
         return sphereVolume;
     }
 
-    @Override
-    public double getCircleArea() {
-        return super.getCircleArea();
-    }
-
-    
-    
 }

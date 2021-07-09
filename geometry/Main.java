@@ -85,6 +85,7 @@ public class Main {
                                 System.out.println(
                                         "Segitiga siku-siku merupakan segitiga yang di bagian salah satu sudutnya adalah sudut siku-siku dengan besar 90 derajat.");
                                 System.out.println("Luas = ½ × alas × tinggi");
+                                System.out.println("Sisi miring = √ (alas x alas) + (tinggi x tinggi)");
                                 System.out.println("Keliling = alas + tinggi + sisi miring");
                                 System.out.println("\n");
                                 break;
